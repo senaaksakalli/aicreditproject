@@ -103,8 +103,8 @@ Eğitim            :  20 epoch · batch=32
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/kullanici-adi/bilstm-kredi-skorlama.git
-cd bilstm-kredi-skorlama
+git clone https://github.com/senaaksakalli/aicreditproject.git
+cd aicreditproject
 
 # Sanal ortam oluştur
 python -m venv venv
