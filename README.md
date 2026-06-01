@@ -1,4 +1,4 @@
-# AI CREDIT PROJECT
+
 # Finansal Risk Yönetiminde BiLSTM Tabanlı Kredi Skorlama ve Temerrüt Tahmini
 
 > Çift Yönlü LSTM mimarisine dayanan, uçtan uca otonom çalışan dört modüllü bir yapay zekâ ajan sistemi.
